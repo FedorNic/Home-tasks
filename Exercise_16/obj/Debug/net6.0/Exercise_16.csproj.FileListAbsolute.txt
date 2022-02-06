@@ -1,0 +1,15 @@
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\obj\Debug\net6.0\Exercise_16.csproj.AssemblyReference.cache
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\obj\Debug\net6.0\Exercise_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\obj\Debug\net6.0\Exercise_16.AssemblyInfoInputs.cache
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\obj\Debug\net6.0\Exercise_16.AssemblyInfo.cs
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\obj\Debug\net6.0\Exercise_16.csproj.CoreCompileInputs.cache
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\bin\Debug\net6.0\Exercise_16.exe
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\bin\Debug\net6.0\Exercise_16.deps.json
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\bin\Debug\net6.0\Exercise_16.runtimeconfig.json
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\bin\Debug\net6.0\Exercise_16.dll
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\bin\Debug\net6.0\ref\Exercise_16.dll
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\bin\Debug\net6.0\Exercise_16.pdb
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\obj\Debug\net6.0\Exercise_16.dll
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\obj\Debug\net6.0\ref\Exercise_16.dll
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\obj\Debug\net6.0\Exercise_16.pdb
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Exercise_16\obj\Debug\net6.0\Exercise_16.genruntimeconfig.cache
