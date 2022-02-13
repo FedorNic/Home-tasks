@@ -1,0 +1,15 @@
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\obj\Debug\net6.0\Execise_22.csproj.AssemblyReference.cache
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\obj\Debug\net6.0\Execise_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\obj\Debug\net6.0\Execise_22.AssemblyInfoInputs.cache
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\obj\Debug\net6.0\Execise_22.AssemblyInfo.cs
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\obj\Debug\net6.0\Execise_22.csproj.CoreCompileInputs.cache
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\bin\Debug\net6.0\Execise_22.exe
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\bin\Debug\net6.0\Execise_22.deps.json
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\bin\Debug\net6.0\Execise_22.runtimeconfig.json
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\bin\Debug\net6.0\Execise_22.dll
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\bin\Debug\net6.0\ref\Execise_22.dll
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\bin\Debug\net6.0\Execise_22.pdb
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\obj\Debug\net6.0\Execise_22.dll
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\obj\Debug\net6.0\ref\Execise_22.dll
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\obj\Debug\net6.0\Execise_22.pdb
+C:\Users\FedorNic\Desktop\Education\Git\Home tasks\Execise_22\obj\Debug\net6.0\Execise_22.genruntimeconfig.cache
