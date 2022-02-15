@@ -1,0 +1,15 @@
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\bin\Debug\net6.0\Exercise_32.exe
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\bin\Debug\net6.0\Exercise_32.deps.json
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\bin\Debug\net6.0\Exercise_32.runtimeconfig.json
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\bin\Debug\net6.0\Exercise_32.dll
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\bin\Debug\net6.0\ref\Exercise_32.dll
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\bin\Debug\net6.0\Exercise_32.pdb
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\obj\Debug\net6.0\Exercise_32.csproj.AssemblyReference.cache
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\obj\Debug\net6.0\Exercise_32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\obj\Debug\net6.0\Exercise_32.AssemblyInfoInputs.cache
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\obj\Debug\net6.0\Exercise_32.AssemblyInfo.cs
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\obj\Debug\net6.0\Exercise_32.csproj.CoreCompileInputs.cache
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\obj\Debug\net6.0\Exercise_32.dll
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\obj\Debug\net6.0\ref\Exercise_32.dll
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\obj\Debug\net6.0\Exercise_32.pdb
+C:\Users\FedorNic\Desktop\Education\C#\Home tasks\Exercise_32\obj\Debug\net6.0\Exercise_32.genruntimeconfig.cache
