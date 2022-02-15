@@ -9,7 +9,7 @@ while (count <= num)
 {
     if (count % 2 == 0)
     {
-        Console.Write(count*count*count + "\t");
+        Console.Write(count * count * count + "\t");
     }
-count++;
+    count = count + 2;// Для уменьшения операций в цикле
 }
