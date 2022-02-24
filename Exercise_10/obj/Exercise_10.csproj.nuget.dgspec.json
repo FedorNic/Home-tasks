@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Home tasks\\Exercise_10\\Exercise_10.csproj": {}
+    "C:\\Users\\FedorNic\\Desktop\\Education\\C#\\Home tasks\\Exercise_10\\Exercise_10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Home tasks\\Exercise_10\\Exercise_10.csproj": {
+    "C:\\Users\\FedorNic\\Desktop\\Education\\C#\\Home tasks\\Exercise_10\\Exercise_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Home tasks\\Exercise_10\\Exercise_10.csproj",
+        "projectUniqueName": "C:\\Users\\FedorNic\\Desktop\\Education\\C#\\Home tasks\\Exercise_10\\Exercise_10.csproj",
         "projectName": "Exercise_10",
-        "projectPath": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Home tasks\\Exercise_10\\Exercise_10.csproj",
+        "projectPath": "C:\\Users\\FedorNic\\Desktop\\Education\\C#\\Home tasks\\Exercise_10\\Exercise_10.csproj",
         "packagesPath": "C:\\Users\\FedorNic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Home tasks\\Exercise_10\\obj\\",
+        "outputPath": "C:\\Users\\FedorNic\\Desktop\\Education\\C#\\Home tasks\\Exercise_10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FedorNic\\AppData\\Roaming\\NuGet\\NuGet.Config"
