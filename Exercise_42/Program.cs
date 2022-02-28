@@ -5,7 +5,6 @@ for (int i = 0; i < array.Length; i++)
 {
     Console.WriteLine("Введите число ");
     array[i] = Convert.ToInt32(Console.ReadLine());
-    Console.WriteLine(array[i]);
-    if (array[i] > 0) result = result + 1;
+   if (array[i] > 0) result = result + 1;
 }
-Console.WriteLine(result);
+Console.WriteLine("Колличество чисел больше 0 = " + result);
