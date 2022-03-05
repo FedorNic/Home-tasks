@@ -3,7 +3,7 @@ Console.WriteLine("Введите число строк = ");
 int m = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите число столбцов = ");
 int n = int.Parse(Console.ReadLine());
-double sum = 0;
+double result = 0;
 int[,] array = new int[m, n];
 for (int i = 0; i < m; i++)
 {
@@ -16,10 +16,14 @@ for (int i = 0; i < m; i++)
 }
 
 for (int i = 0; i < n; i++)
+{
+    result = 0;
+    for (int j = 0; j < m; j++)
     {
-        sum = sum + array[i, 0];
-        Console.Write(array[i, 0] + " ");
+        result = result + array[j, i];
     }
-sum = sum/n;
-Console.WriteLine();
-Console.WriteLine(sum);
+    result = result / m;
+    Console.WriteLine();
+    Console.WriteLine($"Среднеарифметическое {i+1} столбца = {Math.Round(result,2)}");
+    //Просто хочу потренироваться с округлением
+}
