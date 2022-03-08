@@ -14,21 +14,18 @@ for (int i = 0; i < m; i++)
     }
     Console.WriteLine();
 }
-int min;
 for (int i = 0; i < m; i++)
 {
     for (int j = 0; j < n; j++)
     {
-        min = array[i, 0];
-        if (array[i, j] > min)
+        for (int k = n - 1; k > j; k--)
         {
-            save = min;
-            min = array[i, j];
-            array[i, j] = save;
-
-            // save = array[i, j];
-            // array[i, j] = array[j, i];
-            // array[j, i] = save;
+            if (array[i, k - 1] < array[i, k])
+            {
+                save = array[i, k];
+                array[i, k] = array[i, k - 1];
+                array[i, k - 1] = save;
+            }
         }
     }
 }

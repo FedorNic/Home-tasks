@@ -17,12 +17,12 @@ for (int i = 0; i < m; i++)
     Console.WriteLine();
 }
 
-for (int i = 0; i < m; i ++)
+for (int i = 0; i < m; i++)
 {
-    for (int j = 0; j < n; j ++)
+    for (int j = 0; j < n; j++)
     {
-                if (array[i, j] == find) Console.Write($"Позиции числа – ({i},{j})  ");
-                else count = count + 1;
+        if (array[i, j] == find) Console.Write($"Позиции числа – ({i},{j})  ");
+        else count = count + 1;
     }
 }
-if (count == m*n) Console.Write($"Такого числа в массиве нет");
+if (count == m * n) Console.Write($"Такого числа в массиве нет");
